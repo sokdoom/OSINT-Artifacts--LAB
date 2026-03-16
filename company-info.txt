@@ -1,0 +1,19 @@
+Lab Research ORG
+
+Head Office: Nicosia,Cyprus
+
+IT Administrator: it-admin@lab.local
+
+Support Desk: support@lab.local
+
+HR Department: hr@lab.local
+
+
+Internal Services:
+
+- portal.lab.local
+
+- dcserver.lab.local
+
+
+For urgent technical issues contact IT.

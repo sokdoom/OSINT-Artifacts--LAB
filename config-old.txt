@@ -1,0 +1,9 @@
+# Old configuration backup
+
+# DO NOT DELETE
+
+DB_USER=dvwauser
+
+DB_PASS=dvwapass
+
+ADMIN_EMAIL=it-admin@lab.local
